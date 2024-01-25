@@ -15,7 +15,7 @@ numeroEntero = 1
 print(numeroEntero)
 #3, float
 numeroDecimal = 3.1
-print(numeroDecimal)
+print(numeroDecimal) 
 #4, double
 numeroDecimalLargo = 3.14157582737283
 print(numeroDecimalLargo)
@@ -36,7 +36,7 @@ booleanito = True;#while condicion a cumplir;
 print("sigo vivo")
 booleanito = False
 #------condicionales--------
-texto1 = "campus"
+texto1 = "campus" 
 if texto1 == "campus":
     print("soy campus")
 else:
